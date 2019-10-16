@@ -1,0 +1,21 @@
+{
+  "name": "libros",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "electron": "^6.0.12",
+    "electron-reload": "^1.5.0",
+    "googleapis": "^44.0.0",
+    "path": "^0.12.7",
+    "voca": "^1.4.0"
+  }
+}
